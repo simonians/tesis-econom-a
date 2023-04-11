@@ -1,1 +1,7 @@
 yfinance
+numpy==1.24.1
+pandas
+seaborn
+matplotlib 
+functools
+keras
